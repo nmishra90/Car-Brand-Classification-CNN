@@ -10,4 +10,4 @@ Web Design of the Model :-
 ![image](https://github.com/nmishra90/Car-Brand-Classification-CNN/assets/111515105/8c6dd715-b23e-473c-9166-0e2830f61c8e)
 ![image](https://github.com/nmishra90/Car-Brand-Classification-CNN/assets/111515105/e62eb47c-abd5-482c-ae31-b103ac72d246)
 ![image](https://github.com/nmishra90/Car-Brand-Classification-CNN/assets/111515105/e6786c78-23de-49ba-912b-95afe06d4d5b)
-![Uploading image.png…]()
+![image](https://github.com/nmishra90/Car-Brand-Classification-CNN/assets/111515105/a4d3d00a-1d5e-4dcc-92ea-d5118ded6014)
